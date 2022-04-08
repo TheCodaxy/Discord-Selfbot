@@ -16,7 +16,7 @@ $ cd Selfbot
 $ pip3 install -r requirements.txt
 
 # Execute o selfbot
-$ python3 main.py
+$ python main.py
 ```
 
 ### Funções
