@@ -2,7 +2,7 @@
 Desenvolvido por Codaxy.
 Um simples selfbot feito em python.
 
-#Instalação
+# Instalação
 git clone https://github.com/TheCodaxy/Selfbot
 
 cd Selfbot
