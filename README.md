@@ -1,7 +1,7 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Python](https://www.python.org/), [Pip](https://pypi.org/project/pip/). 
+[Python](https://www.python.org/), [Pip](https://pypi.org/project/pip/) e [Git](https://git-scm.com/). 
 
 ### Instalação
 
