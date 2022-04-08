@@ -1,32 +1,30 @@
-# Instalação
-» git clone https://github.com/TheCodaxy/Selfbot
+### Pré-requisitos
 
-» cd Selfbot
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Python](https://www.python.org/), [Pip](https://pypi.org/project/pip/). 
 
-» pip3 install -r requirements.txt
+### Instalação
 
-» python3 main.py
+```bash
+# Clone este repositório
+$ git clone https://github.com/TheCodaxy/Selfbot
 
-# Funções
-» ajuda - Exibe os comandos disponíveis.
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Selfbot
 
-» sobre - Informações sobre o selfbot
+# Instale as dependências
+$ pip3 install -r requirements.txt
 
-» raid - Cria diversos canais de texto.
+# Execute o selfbot
+$ python3 main.py
+```
 
-» raid2 - Cria diversos canais de voz.
+### Funções
 
-» purge - Deleta todas as suas mensagens.
-
-» avatar - Mostra seu avatar atual.
-
-» flood - Flooda mensagens no chat.
-
-# Informações
-» Versão - 1.2
-
-» Linguagem - Python
-
-» Api - Discord.py
-
-» Agradecimentos - Blackx
+- [x] ajuda - Exibe os comandos disponíveis.
+- [x] sobre - Informações sobre o selfbot
+- [x] raid - Cria diversos canais de texto.
+- [x] raid2 - Cria diversos canais de voz.
+- [x] purge - Deleta todas as suas mensagens.
+- [x] avatar - Mostra seu avatar atual.
+- [x] flood - Flooda mensagens no chat.
