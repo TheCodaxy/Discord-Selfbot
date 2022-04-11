@@ -1,12 +1,6 @@
-### Funções
+<p align="center" ><img alt="Eternal-Hub" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
-- [x] ajuda - Exibe os comandos disponíveis.
-- [x] sobre - Informações sobre o selfbot
-- [x] raid - Cria diversos canais de texto.
-- [x] raid2 - Cria diversos canais de voz.
-- [x] purge - Deleta todas as suas mensagens.
-- [x] avatar - Mostra seu avatar atual.
-- [x] flood - Flooda mensagens no chat.
+## SELFBOT
 
 ### Pré-requisitos
 
@@ -17,7 +11,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/TheCodaxy/Selfbot
+$ git clone https://github.com/TheCodaxy/Discord-Selfbot
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Selfbot
