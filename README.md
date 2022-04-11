@@ -28,3 +28,7 @@ $ pip3 install -r requirements.txt
 # Execute o selfbot
 $ python main.py
 ```
+
+## Redes sociais
+
+Inscreva-se no meu canal [YouTube](https://www.youtube.com/channel/UCgc5IlYHfFIv2QNN8BSdxDQ)
