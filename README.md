@@ -29,6 +29,6 @@ $ pip3 install -r requirements.txt
 $ python main.py
 ```
 
-## Redes sociais
+### Redes sociais
 
 Inscreva-se no meu canal [YouTube](https://www.youtube.com/channel/UCgc5IlYHfFIv2QNN8BSdxDQ)
