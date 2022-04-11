@@ -1,3 +1,13 @@
+### Funções
+
+- [x] ajuda - Exibe os comandos disponíveis.
+- [x] sobre - Informações sobre o selfbot
+- [x] raid - Cria diversos canais de texto.
+- [x] raid2 - Cria diversos canais de voz.
+- [x] purge - Deleta todas as suas mensagens.
+- [x] avatar - Mostra seu avatar atual.
+- [x] flood - Flooda mensagens no chat.
+
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -18,13 +28,3 @@ $ pip3 install -r requirements.txt
 # Execute o selfbot
 $ python main.py
 ```
-
-### Funções
-
-- [x] ajuda - Exibe os comandos disponíveis.
-- [x] sobre - Informações sobre o selfbot
-- [x] raid - Cria diversos canais de texto.
-- [x] raid2 - Cria diversos canais de voz.
-- [x] purge - Deleta todas as suas mensagens.
-- [x] avatar - Mostra seu avatar atual.
-- [x] flood - Flooda mensagens no chat.
