@@ -14,7 +14,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone https://github.com/TheCodaxy/Discord-Selfbot
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Selfbot
+$ cd Discord-Selfbot
 
 # Instale as dependências
 $ pip3 install -r requirements.txt
